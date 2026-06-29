@@ -2,7 +2,7 @@
 
 ## Project Description
 This repository was created for my college project.
-this is an **Airpoort runway mnagement system** developed in **c++**
+this is an **Airpoort runway management system** developed in **c++**
 this program can manage **100 aiiport runways** 
 
 ---
@@ -13,7 +13,6 @@ this program can manage **100 aiiport runways**
 - list available runways 
 - Allocate runway 
 - Release runway 
-- Full report 
 
 ---
 ## How to use 
