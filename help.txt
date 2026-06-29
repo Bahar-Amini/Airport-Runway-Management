@@ -1,0 +1,11 @@
+This program manages 100 airport runways.
+
+    Option 1: Input runway information from the user
+    Option 2: Display details of a specific runway.
+    Option 3: Show the number of available (empty) runways.
+    Option 4: List the numbers of available runways.
+    Option 5: Allocate an available runway to an aircraft.
+    Option 6: Release an occupied runway.
+    Option 7: Return to the main menu.
+
+  Note1: Status 0 = Available (Empty), Status 1 = Occupied
