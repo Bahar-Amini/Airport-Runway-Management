@@ -1,4 +1,4 @@
-# Airpoort runway mnagement
+# Airport runway management
 
 ## Project Description
 This repository was created for my college project.
