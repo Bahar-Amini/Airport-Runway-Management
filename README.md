@@ -17,7 +17,7 @@ this program can manage **100 aiiport runways**
 ---
 ## How to use 
 run the program .
-from the main menu select 4(Operations menu).
+from the main menu select 1(Operations menu).
 choose option 1 to 6 to manage runways.
 select 0 to return to main menu.
 
